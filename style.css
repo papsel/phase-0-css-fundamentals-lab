@@ -3,3 +3,19 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+  text-align: center;
+  color: red;
+}
+image
+{
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  border: 0;
+}
+nav
+{
+  padding-left: 10px;
+  padding-right: 10px;
+}
